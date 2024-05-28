@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    background-color: black;
+    color: white;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  button {
+    font-size: 24px; /* Increase the font size for the button */
+    padding: 15px 30px; /* Increase the padding for a larger button */
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  #startSection h1 {
+    font-size: 46px; /* Increase the font size for the "Begin Blood Test" text */
+    margin-bottom: 20px; /* Add some spacing between the text and button */
+  }
+  
+  #resultsList li {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  body h1{
+    font-size: 46px;
+  }
